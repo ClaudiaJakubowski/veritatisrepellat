@@ -1,0 +1,29 @@
+{
+  "name": "veritatisrepellat",
+  "version": "1.0.0",
+  "description": "Bare bones Ethereum objects",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ClaudiaJakubowski/veritatisrepellat.git"
+  },
+  "keywords": [
+    "Ethereum",
+    "asperiores",
+    "RPC",
+    "et",
+    "suscipit",
+    "qui",
+    "Array",
+    "Bytes",
+    "Raw"
+  ],
+  "author": "TayaTromp",
+  "license": "ISC",
+  "dependencies": {
+    "eth-util-lite": "^1.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  }
+}
